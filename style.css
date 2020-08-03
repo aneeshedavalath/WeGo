@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo-txt{
+    font-weight: 600;
+}
+
+.sign-up-text{
+    color: rgb(43, 128, 226);
+}
+
+.cover-bg{
+    background: url('./images/cover.jpg');
+    background-size: cover;
+}
+
+.cover-style{
+    height: 500px;
+}
+
+.cover-col1-style{
+    padding-top: 13em;
+    padding-left: 2em;
+    padding-bottom: 2em;
+}
+
+.cover-form-style{
+    border-radius: 20px;
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3em;
+}
+
+.cover-input{
+    width: 360px;
+    height: 50px;
+    margin-left: 20px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+
+.card-margin{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+}
+
+.feature-icon{
+    margin-top: 2em;
+}
+
+.feature-text{
+    font-weight: 300;
+}
+
+.bg-about{
+background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(234,249,249,0.67) 0.1%, rgba(239,249,251,0.63) 90.1% );
+}
+
+.about-text{
+    font-size: 16px;
+    font-weight: 300;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.contact-text{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 2em;
+    margin-top: 4em;
+    margin-bottom: 4em;
+}
+
+.map-style{
+    border-radius: 15px;
+    margin-right: 1em;
+    margin-top: 1.5em;
+    margin-bottom: 2em;
+}
+
+.footer-text{
+    font-weight: 300;
+    font-size: 16px;
+}
